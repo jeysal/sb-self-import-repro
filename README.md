@@ -1,3 +1,7 @@
+Steps taken after `npx sb@next repro`:
+
+Edit `Button.stories.jsx` to have a self import, in a separate commit.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
